@@ -1,0 +1,3 @@
+Avg order value = DIVIDE([Total Revenue], [Total Orders])
+Total Orders = COUNTROWS(Sales)
+Total Revenue = SUM(Sales[Sales Amount]) 
