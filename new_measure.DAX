@@ -1,0 +1,1 @@
+sum unit price = SUM(Sales[Unit Price])
